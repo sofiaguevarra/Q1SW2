@@ -1,0 +1,31 @@
+.container1{
+	background-color: #91b8c2 ;
+	text-align: center;
+}
+
+.container2{
+	background-color: #b4d1d9 ;
+	width: 245px;
+	padding: 10px;
+	border: 3px dotted black;
+	box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+	margin: auto;
+}
+
+body{
+	background-image: url(https://img.freepik.com/free-photo/fantastic-blue-sky_1203-1929.jpg?w=2000&t=st=1726101899~exp=1726102499~hmac=ce7939902ddfff6ec81b7be664ff1d5428a849c51af11b256bbf46216915f702);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+label{
+	font-family: italic;
+	font-weight: bold;
+}
+#submit{
+	background-color: #e1f7fc;
+	color: #035466;
+	border-radius: 15px;
+	font-size: 20px;
+}
